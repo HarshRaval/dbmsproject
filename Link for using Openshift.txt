@@ -1,0 +1,4 @@
+http://v2-restappv1.rhcloud.com
+
+username: dbms
+password: dbms
